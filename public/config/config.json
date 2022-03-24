@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf306cBa97e4Ac98a7e159529E6a7ceBCbb69808b",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xf306cba97e4ac98a7e159529e6a7cebcbb69808b",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "hs",
+  "SYMBOL": "hs",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/hs",
+  "SHOW_BACKGROUND": false
+}
